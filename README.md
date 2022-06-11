@@ -2,10 +2,18 @@
     <img src=".github/project-logo.svg" width="512px">
 </h1>
 
-# Project Template
+# PHP-FPM
 
-This repository provides a project template containing community health files for
-the [@sw-in-containers](https://github.com/sw-in-containers/) organization.
+This repository contains the source code of a PHP-FPM image which was optimized for the use with Shopware.
+
+## Installed PHP extensions
+
+* gd
+* pdo_mysql
+* zip
+* opcache
+* apcu
+* intl
 
 ## Feel like contributing?
 
