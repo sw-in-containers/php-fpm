@@ -18,8 +18,8 @@ This repository contains the source code of a PHP-FPM image which was optimized 
 ## Feel like contributing?
 
 Read our [contribution guidelines](CONTRIBUTING.md) and create
-an [issue](https://github.com/sw-in-containers/project-template/issues/new/choose) or
-a [pull request](https://github.com/sw-in-containers/project-template/compare).
+an [issue](https://github.com/sw-in-containers/php-fpm/issues/new/choose) or
+a [pull request](https://github.com/sw-in-containers/php-fpm/compare).
 
 ## License
 
