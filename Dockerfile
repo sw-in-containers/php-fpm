@@ -1,4 +1,4 @@
-FROM php:8.1.3-fpm-alpine3.15
+FROM php:8.1.7-fpm-alpine3.15
 
 # create non-root user
 RUN adduser -D -h /var/www/html shopware shopware
